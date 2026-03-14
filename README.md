@@ -1,5 +1,12 @@
-# 💫 About Me:
-<br>🧑‍💻 About Me<br><br>      🎓 Computer Engineering Student at GHRCEMP'27<br>       💻 MERN Stack Developer & Data Analysis<br>       📊 Aspiring Data Science & AI Enthusiast <br>       🚀 Always learning and building new projects<br>       ⚡ Tech Journey: From Web Development to Data-Driven Innovation 🚀
+
+<br>🧑‍💻 About Me<br><br> 
+
+* 🎓 Computer Engineering Student at GHRCEMP '27
+* 💻 MERN Stack Developer & Data Analysis
+* 📊 Aspiring Data Science & AI Enthusiast
+* 🚀 Always learning and building new projects
+* ⚡ Tech Journey: From Web Development to Data-Driven Innovation 🚀
+
 
 
 ## 🌐 Socials:
