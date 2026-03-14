@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Punam</h1>
+<h1 align="center">Hi 👋 I'm Punam</h1>
 
 <h3 align="center">MERN Stack Developer | Data Analysis | Aspiring Data Scientist</h3>
 
@@ -15,8 +15,6 @@
 * 📊 Aspiring Data Science & AI Enthusiast
 * 🚀 Always learning and building new projects
 * ⚡ Tech Journey: From Web Development to Data-Driven Innovation 🚀
-
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/punam-dev03) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:punam.developer@gmail.com) 
