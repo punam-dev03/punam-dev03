@@ -32,7 +32,6 @@
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
 
----
 
 ### 🛠️ Tools, Databases & Platforms
 
