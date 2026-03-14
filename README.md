@@ -72,19 +72,20 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<table>
+<tr>
+<td>
+
 <img src="https://github-readme-stats.vercel.app/api?username=punam-dev03&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-</p>
 
-<p align="center">
+</td>
+<td>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punam-dev03&theme=dark&hide_border=false&layout=compact"/>
-</p>
-<hr style="border: none; height: 2px; background-color: #888;">
 
-## 👀 Profile Visitors
+</td>
+</tr>
+</table>
 
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=punam-dev03&icon=5&color=6"/>
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
