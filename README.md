@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Learning-Data%20Science%20%26%20AI-purple"/>
   <img src="https://img.shields.io/badge/Lives-India-green"/>
 </p>
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 <br><B>🧑‍💻 About Me</B><br>
 
 * 🎓 Computer Engineering Student at GHRCEMP '27
