@@ -1,4 +1,13 @@
+<h1 align="center">Hey there! 👋 I'm Punam</h1>
 
+<h3 align="center">MERN Stack Developer | Data Analysis | Aspiring Data Scientist</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-MERN%20Stack-blue"/>
+  <img src="https://img.shields.io/badge/Data-Analysis-orange"/>
+  <img src="https://img.shields.io/badge/Learning-Data%20Science%20%26%20AI-purple"/>
+  <img src="https://img.shields.io/badge/Lives-India-green"/>
+</p>
 <br><B>🧑‍💻 About Me</B><br>
 
 * 🎓 Computer Engineering Student at GHRCEMP '27
