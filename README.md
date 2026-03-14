@@ -1,5 +1,5 @@
 
-<br>🧑‍💻 About Me<br><br> 
+<br><B>🧑‍💻 About Me</B><br>
 
 * 🎓 Computer Engineering Student at GHRCEMP '27
 * 💻 MERN Stack Developer & Data Analysis
