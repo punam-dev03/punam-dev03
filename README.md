@@ -58,14 +58,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge\&logo=matplotlib\&logoColor=black)
 ![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge\&logo=cisco\&logoColor=black)
 
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-<img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-</p>
-
-
 <hr style="border: none; height: 2px; background-color: #888;">
 
 # 🌐 Connect With Me:
