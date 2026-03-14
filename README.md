@@ -9,7 +9,8 @@
   <img src="https://img.shields.io/badge/Lives-India-green"/>
 </p>
 <hr style="border: none; height: 2px; background-color: #888;">
-<B>🧑‍💻 About Me</B><br>
+
+## 🧑‍💻 About Me<br>
 
 * 🎓 Computer Engineering Student at GHRCEMP '27
 * 💻 MERN Stack Developer & Data Analysis
@@ -55,9 +56,16 @@
 
 <hr style="border: none; height: 2px; background-color: #888;">
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/punam-dev03)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:punam.developer@gmail.com)
+## 🌐 Let's Connect
+
+<p align="center">
+<a href="https://linkedin.com/in/punam-dev03">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:punam.developer@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 <hr style="border: none; height: 2px; background-color: #888;">
 
