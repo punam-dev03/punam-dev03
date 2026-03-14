@@ -23,7 +23,7 @@
 <hr style="border: none; height: 2px; background-color: #888;">
 
 # 🌐 Connect With Me:
-<center>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/punam-dev03) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:punam.developer@gmail.com)</center>
+<center> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/punam-dev03) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:punam.developer@gmail.com) </center>
 <hr style="border: none; height: 2px; background-color: #888;">
 
 # 📊 GitHub Stats:
