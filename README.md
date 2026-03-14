@@ -17,7 +17,7 @@
 * 🚀 Always learning and building new projects
 * ⚡ Tech Journey: From Web Development to Data-Driven Innovation 🚀
 <hr style="border: none; height: 2px; background-color: #888;">
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/punam-dev03) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:punam.developer@gmail.com) 
 <hr style="border: none; height: 2px; background-color: #888;">
 # 💻 Tech Stack:
