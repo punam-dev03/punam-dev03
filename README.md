@@ -60,8 +60,10 @@
 
 <hr style="border: none; height: 2px; background-color: #888;">
 
-# 🌐 Connect With Me:
-<center> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/punam-dev03) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:punam.developer@gmail.com) </center>
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/punam-dev03)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:punam.developer@gmail.com)
+
 <hr style="border: none; height: 2px; background-color: #888;">
 
 # 📊 GitHub Stats:
