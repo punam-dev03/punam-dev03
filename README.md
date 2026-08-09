@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Punam</h1>
 
-<h3 align="center">MERN Stack Developer | Data Analysis | Aspiring Data Scientist</h3>
+<h3 align="center">JAVA Developer | Data Analysis | Aspiring Data Scientist</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-MERN%20Stack-blue"/>
@@ -13,7 +13,7 @@
 ## 🧑‍💻 About Me<br>
 
 * 🎓 Computer Engineering Student at GHRCEMP '27
-* 💻 MERN Stack Developer & Data Analysis
+* 💻 JAVA Developer & Data Analysis
 * 📊 Aspiring Data Science & AI Enthusiast
 * 🚀 Always learning and building new projects
 * ⚡ Tech Journey: From Web Development to Data-Driven Innovation 🚀
